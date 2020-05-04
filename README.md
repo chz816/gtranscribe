@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 
 ```python
 import gtanscribe
-gtanscribe.write("output.json")
+gtanscribe.write("sample.json")
 ```
 
 ```
