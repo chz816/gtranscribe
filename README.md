@@ -21,8 +21,8 @@ $ pip install -r requirements.txt
 ## Usage
 
 ```python
-import gtanscribe
-gtanscribe.write("sample.json")
+import gtranscribe
+gtranscribe.write("sample.json")
 ```
 
 ```
